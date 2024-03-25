@@ -2,7 +2,7 @@
 	position : absolute;
     top: 650px;
     left: 450px;
-    background: url(shadowicon.jpg);
+    background: url(./img/shadowicon.jpg);
     background-repeat: no-repeat;
     width: 100px;
     height: 100px;
@@ -12,7 +12,7 @@
 	position : absolute;
     top: 650px;
     left: 700px;
-    background: url(vegetaicon.jpg);
+    background: url(./img/vegetaicon.jpg);
     background-repeat: no-repeat;
     width: 100px;
     height: 100px;
@@ -22,7 +22,7 @@
 	position : absolute;
     top: 650px;
     left: 950px;
-    background: url(elsaicon.png);
+    background: url(./img/elsaicon.png);
     background-repeat: no-repeat;
     width: 100px;
     height: 100px;
@@ -32,7 +32,7 @@
 	position : absolute;
     top: 650px;
     left: 1200px;
-    background: url(topgunicon.png);
+    background: url(./img/topgunicon.png);
     background-repeat: no-repeat;
     width: 100px;
     height: 100px;
