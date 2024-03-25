@@ -50,3 +50,16 @@ h1 {
     font-size: 20px
 }
 
+.painter{
+    position: absolute;
+    margin-left: 980px;
+    margin-top: 430px;
+}
+
+.p5{
+    position: absolute;
+    margin-left: 1040px;
+    margin-top: 660px;
+    font-size: 20px
+}
+
